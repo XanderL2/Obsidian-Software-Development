@@ -8,34 +8,49 @@
         "type": "tabs",
         "children": [
           {
-            "id": "90e26bd2c3fb11d0",
+            "id": "8afc2864676e82c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Ver Logs"
-            }
-          },
-          {
-            "id": "2ce7e918fee7a637",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/1. Introduccion/1. Introduccion.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Tecnologias"
+              "title": "1. Introduccion"
+            }
+          },
+          {
+            "id": "cd9b3989914c2237",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4. Behavior Subjects"
+            }
+          },
+          {
+            "id": "765611a40a95da1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Validacion de Formularios"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "genericas",
+                "query": "position",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +118,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.51103591918945
+    "width": 437.5086555480957
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -165,13 +180,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 1. Ver Logs"
+              "title": "Esquema de 2. Validacion de Formularios"
             }
           },
           {
@@ -261,54 +276,54 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "90e26bd2c3fb11d0",
+  "active": "ffbd58b3b356e5fb",
   "lastOpenFiles": [
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/3. Contenedores/1. Gestion de Contenedores.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos/1. Ver Logs.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/6. Complementos",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/2. Gestion de Imagenes/1. Gestion de Imagenes.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/2. Creacion de Imagenes de Proyecto/1. DockerFile.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes/1. Que es un Volumen.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes/2. Gestion de Volumenes.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/3. Gestion de los contenedores/1. Levantar contenedores de contenedores.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/2. DockerCompose File/1. Clausulas de DockerCompose.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/1. Tecnologias.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/1. Introduccion/1. Que es Docker.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/1. Introduccion/1. Que es Docker Compose.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network/2. Gestion de Redes Docker.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network/1. Que es DockerNetwork.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/0. Introduccion/1. Construccion de imagenes.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/1. Obtencion de Imagenes Base/1. Creacion de una imagen a partir de una base.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/6. Gestion de Dependencias/1. Gestion de dependencias..md",
-    "2. Desarrollo/BASES DATOS/3 .MongoDB/MongoDbAtlas/1. Clusters.md",
-    "2. Desarrollo/PROGRAMACION/1. JavaScript/2. Backend/1. Node JS/6. Gestion de Dependencias",
-    "DOCKER 1.md",
     "README.md",
-    "TAILWIND CSS.md",
-    "Sin título.md",
-    "6. Images/Pasted image 20250406172048.png",
-    "6. Images/Pasted image 20250406140307.png",
-    "6. Images/Pasted image 20250406140201.png",
-    "6. Images/Pasted image 20250406135545.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/3. Gestion de los contenedores",
-    "Pasted image 20250406172048.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/2. DockerCompose File",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose/1. Introduccion",
-    "Pasted image 20250406140307.png",
-    "Pasted image 20250406140201.png",
-    "Pasted image 20250406135545.png",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/5. Docker Network",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Docker Compose",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/4. Volumenes",
-    "Excalidraw/1. Construccion de imagenes 2025-04-05 19.52.16.excalidraw.md",
-    "3. Complementos/Organizacion/Personal/Kanban Temporal.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/2. Imagenes/1. Creacion de Imagenes/1. Obtencion de Imagenes Base/Sin título.md",
-    "2. Desarrollo/HERRAMIENTAS/DEV-OPS/3. Docker/1.  Docker Basico/2. Imagenes/1. Creacion de Imagenes/0. Introduccion",
-    "2. Desarrollo/HERRAMIENTAS/Figma/1. Prototipado.md",
-    "2. Desarrollo/BASES DATOS/2. SQL (Maria DB)/2. Principal/8. Filtrato de Datos (Where)/Where (Condicionales en BD).md",
-    "6. Images/Pasted Image 20250312200952_339.png",
-    "6. Images/Pasted image 20250303173705.png",
+    "6. Images/Pasted image 20250510183242.png",
+    "Pasted Image 20250430154616_325.png",
+    "Pasted Image 20250430154555_090.png",
+    "Pasted Image 20250429192404_235.png",
+    "Pasted Image 20250429180859_079.png",
+    "xd/arquitectura.excalidraw.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+    "1. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/2. Github/2. SubModulos.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/1. OneLinners.md",
+    "1. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Formularios Reactivos - FormGruups.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/0. Formularios basados en Plantillas vs Reactivos.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/10. Reutilizacion de UI/1. Principios de Reutilizacion de UI.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/2. Extends - Herencia de Propiedades.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/1. Anidamiento.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/3. Subjects/1. Subjects.md",
+    "xd/Drawing 2025-04-29 19.09.28.excalidraw.md",
+    "xd/Drawing 2025-04-27 11.57.05.excalidraw.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/4. Scrolling.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/4. Directivas Estructurales Viejas.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/2. Directivas Estructurales Modernas.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/5. Componentes para Forms Reactivos.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/3. Formularios Basados en Plantillas (NgModel).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/4. Guards.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/2. Manejo de Errores.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/0. Configuracion de Angular Router.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/1. SPAs Routes.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/1. Eventos de Componentes - Ciclo de Vida.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/7. Estandarizaciones",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/1, HTML/3. HTML Accesible",
+    "xd/Drawing 2025-04-27 11.57.05.excalidraw.png",
+    "xd",
+    "1. Desarrollo/PROGRAMACION/3. C-Sharp/4. .NET Framework",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/0. Introduccion",
+    "6. Images/ayesa.excalidraw.png",
+    "6. Images/2024-02-01-16-24-21.jpeg",
+    "xd.py",
+    "6. Images/Pasted image 20240830115228.png",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/2. Elementos",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1. Nodos",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios",
+    "6. Images/Pasted image 20240905170044.png",
     "Sin título.canvas",
     "Sin título 1.canvas",
     "3. Complementos/Proyectos/Nextlify/Sin título.canvas",

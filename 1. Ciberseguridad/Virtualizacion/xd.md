@@ -1,3 +1,0 @@
-
----
-kristiano ronaldo 69
