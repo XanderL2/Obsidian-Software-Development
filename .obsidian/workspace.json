@@ -4,53 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "e6fce5bfcbe1dd23",
+        "id": "5bfe643a3aa26fda",
         "type": "tabs",
         "children": [
           {
-            "id": "8afc2864676e82c4",
+            "id": "a8311bfad4d09716",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/1. Introduccion/1. Introduccion.md",
+                "file": "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture/1. Screaming Architecture.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Introduccion"
+              "title": "1. Screaming Architecture"
             }
           },
           {
-            "id": "cd9b3989914c2237",
+            "id": "e9e82fe9bc39f200",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
-                "mode": "preview",
-                "source": false
+                "file": "Excalidraw/2. Sintaxis y uso de Signals 2025-06-30 16.21.28.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "4. Behavior Subjects"
-            }
-          },
-          {
-            "id": "765611a40a95da1c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Validacion de Formularios"
+              "icon": "excalidraw-icon",
+              "title": "2. Sintaxis y uso de Signals 2025-06-30 16.21.28.excalidraw"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -77,7 +60,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -87,7 +70,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           },
           {
@@ -96,8 +79,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -110,7 +93,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           }
         ],
@@ -180,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
+                "file": "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture/1. Screaming Architecture.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de 2. Validacion de Formularios"
+              "title": "Outline of 1. Screaming Architecture"
             }
           },
           {
@@ -229,8 +212,8 @@
             "state": {
               "type": "quiet-outline",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
@@ -239,8 +222,8 @@
             "state": {
               "type": "code-execute-manage-executors",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Complemento no activo"
+              "icon": "command-glyph",
+              "title": "Execution Runtimes"
             }
           },
           {
@@ -258,17 +241,17 @@
       }
     ],
     "direction": "horizontal",
-    "width": 389.5
+    "width": 537.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "canvas:Crear nuevo lienzo": false,
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "markdown-importer:Abrir el importador de Markdown": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
@@ -278,51 +261,51 @@
   },
   "active": "ffbd58b3b356e5fb",
   "lastOpenFiles": [
-    "README.md",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Arquitecturas a nivel de Sistema/2. Arquitectura de Microservicios.md",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/1. Arquitecturas a nivel de Sistema/1. Arquitectura Monolitica.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/2. Sintaxis y uso de Signals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/1. Que son las Señales.md",
+    "Excalidraw/2. Sintaxis y uso de Signals 2025-06-30 16.21.28.excalidraw.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/0. Instalaccion/1. Instalacion.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/0. Instalaccion/2. NGPrime.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
+    "Excalidraw/2. Interaccion entre Componentes - Output e Input 2024-10-31 17.45.21.excalidraw.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/2. Interaccion entre Componentes - Output e Input.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/1. Eventos de Componentes - Ciclo de Vida.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/0. Estructura Basica de un Componente.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/9. Servicios e Inyeccion de Dependencias/2. Peticiones HTTP/3.  Guards.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/9. Servicios e Inyeccion de Dependencias/2. Peticiones HTTP/4. Interceptors.md",
+    "Excalidraw/4. Interceptors 2025-05-31 13.30.06.excalidraw.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Reactivos/3. Formularios reactivos y de plantillas Reutilizables.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Reactivos/1. Formularios Reactivos - FormGruups.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Reactivos/2. Validacion de Formularios.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/0. Formularios basados en Plantillas vs Reactivos.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/2. Animaciones/1. KeyFrames.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/10. Animaciones y Transiciones/1. Transiciones/1. Transiciones.md",
+    "1. Desarrollo/HERRAMIENTAS/METODOLOGIAS AGILES/SCRUM/2. Roles en SCRUM.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/5. Herramientas/JSDoc",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/5. Herramientas",
+    "1. Desarrollo/HERRAMIENTAS/Documentacion",
+    "1. Desarrollo/HERRAMIENTAS/METODOLOGIAS AGILES/SCRUM/3. Conceptos  y Funcionamiento Basico.md",
+    "1. Desarrollo/HERRAMIENTAS/Prototipado y Maquetacion/1. Prototipado.md",
+    "1. Desarrollo/PROGRAMACION/4. Utilidades/1. Formulas Matematicas Basicas.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Plantillas",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Reactivos",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/3. NgSonner",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/9. Servicios e Inyeccion de Dependencias/3. ViewModelObservable",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/2. PrimeNG",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc",
     "6. Images/Pasted image 20250510183242.png",
     "Pasted Image 20250430154616_325.png",
     "Pasted Image 20250430154555_090.png",
     "Pasted Image 20250429192404_235.png",
     "Pasted Image 20250429180859_079.png",
-    "xd/arquitectura.excalidraw.md",
-    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
-    "1. Desarrollo/HERRAMIENTAS/GIT Y GITHUB/2. Github/2. SubModulos.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/1. OneLinners.md",
-    "1. Desarrollo/PROGRAMACION/2. Python/1. Python/3. Python Orientado a Objetos/3. Principios SOLID/Programacion Principios.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/2. Validacion de Formularios.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/1. Formularios Reactivos - FormGruups.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/0. Formularios basados en Plantillas vs Reactivos.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/4. Behavior Subjects/4. Behavior Subjects.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/2. React/1. Basico/10. Reutilizacion de UI/1. Principios de Reutilizacion de UI.md",
-    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/2. Extends - Herencia de Propiedades.md",
-    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/3. Anidamiento y extension/1. Anidamiento.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/3. Subjects/1. Subjects.md",
-    "xd/Drawing 2025-04-29 19.09.28.excalidraw.md",
-    "xd/Drawing 2025-04-27 11.57.05.excalidraw.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/4. Geometria/4. Scrolling.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/4. Directivas Estructurales Viejas.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/2. Directivas Estructurales Modernas.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/5. Componentes para Forms Reactivos.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Formularios Reactivos/3. Formularios Basados en Plantillas (NgModel).md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/4. Guards.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/2. Manejo de Errores.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/0. Configuracion de Angular Router.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/1. SPAs Routes.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/1. Logica TypeScript en Componentes/1. Eventos de Componentes - Ciclo de Vida.md",
     "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/3. SASS/7. Estandarizaciones",
-    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/1, HTML/3. HTML Accesible",
     "xd/Drawing 2025-04-27 11.57.05.excalidraw.png",
-    "xd",
-    "1. Desarrollo/PROGRAMACION/3. C-Sharp/4. .NET Framework",
-    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture",
-    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/0. Introduccion",
     "6. Images/ayesa.excalidraw.png",
     "6. Images/2024-02-01-16-24-21.jpeg",
-    "xd.py",
     "6. Images/Pasted image 20240830115228.png",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/2. Elementos",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/1. Recorrido y Seleccion de Elementos/1. DOM Traversing/1. Nodos",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/4. Eventos de Formularios",
     "6. Images/Pasted image 20240905170044.png",
     "Sin título.canvas",
     "Sin título 1.canvas",

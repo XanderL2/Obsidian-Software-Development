@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "TiBrandCSharp",
-      "FasObjectUngroup",
-      "LiRegex",
-      "SiCsharp",
-      "SiAngular"
+      "IbDocumentText",
+      "Fas1",
+      "FasRobot",
+      "SiMaterialdesign",
+      "SiApache"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -56,7 +56,6 @@
   "1. Desarrollo/HERRAMIENTAS/CLEAN CODE": "TiCircleTriangle",
   "1. Desarrollo/HERRAMIENTAS/DEV-OPS": "TiCloud",
   "1. Desarrollo/HERRAMIENTAS/DIAGRAMAS UML": "SiUml",
-  "1. Desarrollo/HERRAMIENTAS/Prototipado y Maquetacion": "BoBxlFigma",
   "1. Desarrollo/HERRAMIENTAS/GIT Y GITHUB": "FabGithub",
   "1. Desarrollo/HERRAMIENTAS/METODOLOGIAS AGILES": "LiTrello",
   "1. Desarrollo/HERRAMIENTAS/TESTING": "SiJest",
@@ -85,5 +84,9 @@
   "1. Desarrollo/PROGRAMACION/3. C-Sharp/1. Fundamentos Basicos de Csharp": "SiCsharp",
   "1. Desarrollo/PROGRAMACION/3. C-Sharp/2. Complementos Fundamentales": "LiRegex",
   "1. Desarrollo/PROGRAMACION/3. C-Sharp/3. Csharp Orientado a Objetos": "FasObjectUngroup",
-  "1. Desarrollo/PROGRAMACION/3. C-Sharp/4. .NET Framework": "TiBrandCSharp"
+  "1. Desarrollo/PROGRAMACION/3. C-Sharp/4. .NET Framework": "TiBrandCSharp",
+  "1. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache": "SiApache",
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/1. Angular Material": "SiMaterialdesign",
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/2. PrimeNG": "FasRobot",
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/5. Herramientas": "IbDocumentText"
 }
