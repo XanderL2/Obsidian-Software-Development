@@ -5,7 +5,7 @@
 
 ## Edicion:
 - **Audaticity**
-- **KdenLive**\
+- **KdenLive**
 - **Photophea&&
 
 ## Recursos:

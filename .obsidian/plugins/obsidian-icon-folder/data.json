@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbDocumentText",
-      "Fas1",
-      "FasRobot",
-      "SiMaterialdesign",
-      "SiApache"
+      "SiJest",
+      "SiAngular",
+      "SiJasmine",
+      "TiBrandCSharp",
+      "Si1password"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -86,7 +86,12 @@
   "1. Desarrollo/PROGRAMACION/3. C-Sharp/3. Csharp Orientado a Objetos": "FasObjectUngroup",
   "1. Desarrollo/PROGRAMACION/3. C-Sharp/4. .NET Framework": "TiBrandCSharp",
   "1. Desarrollo/HERRAMIENTAS/DEV-OPS/2. Apache": "SiApache",
-  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/1. Angular Material": "SiMaterialdesign",
-  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Extras, Librerias, Etc/2. PrimeNG": "FasRobot",
-  "1. Desarrollo/PROGRAMACION/1. JavaScript/5. Herramientas": "IbDocumentText"
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/5. Herramientas": "IbDocumentText",
+  "1. Desarrollo/HERRAMIENTAS/TESTING/1. Conceptos": "Si1password",
+  "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing": "SiJavascript",
+  "1. Desarrollo/HERRAMIENTAS/TESTING/3. Xunit": "TiBrandCSharp",
+  "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/1. Jasmine": "SiAngular",
+  "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/2. Jest": "SiJest",
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/14. Extras, Librerias, Etc/1. Angular Material": "SiMaterialdesign",
+  "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/14. Extras, Librerias, Etc/2. PrimeNG": "FasRobot"
 }
