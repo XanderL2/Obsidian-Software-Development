@@ -1,10 +1,10 @@
 {
   "accentColor": "#6600ff",
-  "baseFontSize": 18,
-  "cssTheme": "Tokyo Night",
+  "baseFontSize": 17,
+  "cssTheme": "Allium",
   "theme": "system",
   "nativeMenus": false,
-  "textFontFamily": "Noto Sans",
+  "textFontFamily": "IosevkaTerm Nerd Font Mono,Arial",
   "baseFontSizeAction": true,
   "interfaceFontFamily": ""
 }

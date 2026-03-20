@@ -11,10 +11,14 @@
             "id": "da3b55daa7b74f26",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/0. Instalaccion/1. Instalacion.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Instalacion"
             }
           }
         ]
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "switchMap",
+                "query": "prettier",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,12 +84,11 @@
               "title": "Files"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 404.5
+    "width": 433.5
   },
   "right": {
     "id": "8c7dd5d078583b80",
@@ -101,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Atajos/Markdown Sintax.md",
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/2. Estructuras con patrones comunes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Markdown Sintax"
+              "title": "Backlinks for 2. Estructuras con patrones comunes"
             }
           },
           {
@@ -147,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Desarrollo/Drawing 2025-11-24 18.42.34.excalidraw.md",
+                "file": "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/0. Instalaccion/1. Instalacion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-11-24 18.42.34.excalidraw"
+              "title": "Outline of 1. Instalacion"
             }
           },
           {
@@ -199,33 +202,13 @@
               "icon": "lines-of-text",
               "title": "Quiet Outline"
             }
-          },
-          {
-            "id": "6a64dc5cd783f552",
-            "type": "leaf",
-            "state": {
-              "type": "code-execute-manage-executors",
-              "state": {},
-              "icon": "command-glyph",
-              "title": "Execution Runtimes"
-            }
-          },
-          {
-            "id": "ffbd58b3b356e5fb",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 537.5
+    "width": 537.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -240,48 +223,47 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-kanban:Create new board": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02b070d6a49dcd26",
+  "active": "da3b55daa7b74f26",
   "lastOpenFiles": [
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/5. Operadores RxJS/1. Operadores de RxJs.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Utilidades/1. RxResource.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/7. Query Params y Params.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/6. Conversion de Signal  y Observables.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/5. Lazy Loading.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/2. Manejo de Errores.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/3. HashRouter.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/4. Rutas Hijas.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/6. Router Service.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/8. Guards.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/1. SPAs Routes (RouterLink - RouterLinkActive).md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/6. Enrutado/0. Configuracion de Angular Router.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/1. Orden de las Clases.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Utilidades",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Buenas Practicas en Angular/2. Naming.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/3. Inputs e Outputs como Signals.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/5. XML/5.  XPATH.md",
+    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/2. CSS/5. Posicionamiento/1. Positions (Todos).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/1. Basico/2. DOM - BOM/1. DOM (Document Object Model(/3. Event Handling/1. Examen.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/2. Queries.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/1. Tanstack Query.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/2. Interceptors/1. Interceptors.md",
     "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/12. Funcionalidades Especiales (NGs y DOM)/4. Enviroments (Variables de Entorno).md",
-    "1. Desarrollo/LENGUAJES COMPLEMENTARIOS/4. Tailwind/2. Responsive Web Design/1. Flex.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Utilidades/1. RxResource.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/2. Angular CLI/2. Angular MCP Server.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/3. Optimizacion de peticiones.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/4. Mutaciones (Peticiones POST, PUT DELETE Y PATCH).md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/4. Guards/3.  Guards.md",
+    "1. Desarrollo/ARQUITECTURAS DE SOFTWARE/2. Arquitecturas a nivel de codigo/1. Screaming Architecture/1. Screaming Architecture.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/7. RXJS (Programacion Reactiva)/5. Operadores RxJS/1. Operadores de RxJs.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Formularios Reactivos/1. Reactivos/1. Formularios Reactivos - FormGruups.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11. Formularios Reactivos/1. Reactivos/3. Formularios reactivos y de plantillas Reutilizables.md",
     "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/4. Effects.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP/0. Gestion correcta de Peticiones HTTP.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular/2. Manejo de Errores en Peticiones HTTP.md",
     "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/2. Sintaxis y uso de Signals.md",
     "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/1. Que son las Señales.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/0. Change Detection - Zone y Zoneless.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/5. Modulos/1. Modulos y Submodulos.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/1. Plantillas - Bindings.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/2. Directivas Estructurales Modernas.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/3. Directivas Atributo.md",
-    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/4. Desarrollo de Componentes/2. Plantillas CSS y HTML/4. Directivas Estructurales Viejas.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/5. LinkedSignals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/8. Signals/3. Inputs e Outputs como Signals.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular/1. Peticiones HTTP.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/2. Estructuras con patrones comunes.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/4. One Linners/1. OneLinners.md",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/3. Cache y Gestion de Peticiones HTTP",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/2. Interceptors",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/4. Guards",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP/1. Peticiones HTTP Angular",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/10. Gestion de Peticiones HTTP",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/15. Librerias de Componentes/PrimeNG",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/11",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/15. Librerias de Componentes",
+    "1. Desarrollo/PROGRAMACION/1. JavaScript/1. Frontend/3. Angular/13. Utilidades",
     "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/1. Jasmine/3. Tests a servicios",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/1. Conceptos/Untitled",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/2. Jest",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/1. Jasmine",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/1. Jasmine/0. Introduccion",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing/1. Jasmine/1. Estructura de un Test",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/3. Xunit",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/2. JavaScript Testing",
-    "1. Desarrollo/HERRAMIENTAS/TESTING/1. Conceptos",
     "6. Images/Pasted image 20250510183242.png",
     "Pasted Image 20250430154616_325.png",
     "Pasted Image 20250430154555_090.png",
